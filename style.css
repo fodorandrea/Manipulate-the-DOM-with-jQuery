@@ -1,0 +1,23 @@
+h1 {
+  color: #E67676;
+  font-family: 'PT Serif', serif;
+  font-size: 30px;
+   }
+h2 { 
+  color: #8C4FBF;
+  font-family: 'PT Serif', serif;
+  }
+p {
+  font-family: 'Raleway', sans-serif;
+   }
+ul {
+  font-family: 'Raleway', sans-serif;
+  list-style-type:square;
+   }
+ol {
+  list-style-type: upper-roman;
+  font-family: 'Raleway', sans-serif;
+   }
+.pink{
+  color: #CF41A2;
+  }
